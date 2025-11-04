@@ -6,7 +6,6 @@ A modern, secure, and feature-rich notes taking application built with Next.js a
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 ## 🚀 Features
-
 - **User Authentication**: Secure JWT-based authentication system
 - **CRUD Operations**: Create, read, update, and delete notes
 - **Responsive Design**: Beautiful UI that works on all devices
@@ -369,3 +368,7 @@ NODE_ENV=development
 ```env
 NEXT_PUBLIC_API_URL=http://localhost:5000/api
 ```
+
+<img width="1919" height="827" alt="Screenshot 2025-11-04 195606" src="https://github.com/user-attachments/assets/df067f17-f242-4503-b3bd-a5a37b06914c" />
+<img width="1895" height="911" alt="Screenshot 2025-11-04 195524" src="https://github.com/user-attachments/assets/82ea91cd-5ea2-45da-af01-7abb58b6d9fa" />
+<img width="1897" height="911" alt="Screenshot 2025-11-04 195544" src="https://github.com/user-attachments/assets/2352a06a-0b44-4722-b555-e94a0d47a801" />
